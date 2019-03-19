@@ -5,4 +5,4 @@
 *python101*
 ~python101~
 
-!.[python101].(Mobile.jpg)
+![python101](Mobile.jpg)
